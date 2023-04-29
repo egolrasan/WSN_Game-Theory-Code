@@ -6,4 +6,6 @@ The simulation is done in MATLAB.
 
 The main function to execute is named as follows:
 "mainfunc.m"
+
+goodbye
 This is a test
