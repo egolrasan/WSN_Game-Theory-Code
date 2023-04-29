@@ -7,5 +7,5 @@ The simulation is done in MATLAB.
 The main function to execute is named as follows:
 "mainfunc.m"
 
-BYE
-
+This is a test
+Bye
