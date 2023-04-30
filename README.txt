@@ -7,9 +7,4 @@ The simulation is done in MATLAB.
 The main function to execute is named as follows:
 
 
-"mainfunc.
-
-bye 
-This is a test for git
-
-
+"mainfunc"
