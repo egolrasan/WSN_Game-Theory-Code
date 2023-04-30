@@ -8,3 +8,7 @@ The main function to execute is named as follows:
 
 
 "mainfunc"
+
+This is for test the git
+bye
+
