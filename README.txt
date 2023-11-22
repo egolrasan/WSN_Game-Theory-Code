@@ -1,7 +1,4 @@
-salaaaaaam,
-
-how are you
-i'm elham.
+salaam,
 
 this is my paper code.
 
