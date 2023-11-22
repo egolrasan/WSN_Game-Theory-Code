@@ -1,6 +1,5 @@
-hi,
-
-khobi
+hello,
+how are you
 
 this is my paper code.
 
