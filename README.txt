@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 hi,
 
 my name is elham.
+=======
+hello,
+how are you
+>>>>>>> 058e21a7879c66e10d3d4b3eda47e2ef2be3d626
 
 this is my paper code.
 
