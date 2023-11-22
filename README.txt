@@ -2,7 +2,6 @@ hi
 
 khoobi
 my name is elham
-how are you?
 This folder contains the article code and images to upload to GitHub.
 
 
