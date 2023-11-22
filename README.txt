@@ -1,7 +1,11 @@
 salaaaaaam,
 
 how are you.
+<<<<<<< HEAD
 i'm elham.
+=======
+this is my paper code.
+>>>>>>> 125681965f954945ed10fd65d757fdaff4c77cc6
 This folder contains the article code and images to upload to GitHub.
 
 
