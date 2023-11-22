@@ -1,6 +1,6 @@
-hi,
+hello,
 
-khoobi
+how are you.
 my name is elham
 This folder contains the article code and images to upload to GitHub.
 
